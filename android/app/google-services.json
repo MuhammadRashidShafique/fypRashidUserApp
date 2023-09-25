@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "196706800442",
+    "firebase_url": "https://kiet-ride-sharing-app-default-rtdb.firebaseio.com",
+    "project_id": "kiet-ride-sharing-app",
+    "storage_bucket": "kiet-ride-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196706800442:android:6ba208c904d765de46b603",
+        "android_client_info": {
+          "package_name": "com.rashid.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196706800442-d3evc0loaaa67dbpeakmdopdi14cl0jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-ysCirVaLja0FPnaoyWgsrUp8gVwLzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196706800442-d3evc0loaaa67dbpeakmdopdi14cl0jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196706800442-02jkku84u09g3ct8m2k1m8v177pjnfnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196706800442:android:c18ae68ae4e209db46b603",
+        "android_client_info": {
+          "package_name": "com.rashid.user_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196706800442-d3evc0loaaa67dbpeakmdopdi14cl0jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-ysCirVaLja0FPnaoyWgsrUp8gVwLzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196706800442-d3evc0loaaa67dbpeakmdopdi14cl0jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196706800442-02jkku84u09g3ct8m2k1m8v177pjnfnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
